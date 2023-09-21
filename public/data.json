@@ -1,0 +1,66 @@
+[
+    {
+      "img": "https://i.ibb.co/9HHwv9D/Rectangle-2-2.png",
+      "course_name": "Introduction to C Programming",
+      "credit_value": 3,
+      "details_of_course": "This course provides a comprehensive introduction to the fundamentals of C programming, covering topics such as variables, control structures, functions, and memory management.",
+      "price": 2500
+    },
+    {
+      "img": "https://i.ibb.co/YjSjLk9/Rectangle-2-3.png",
+      "course_name": "Introduction to Algorithms",
+      "credit_value": 4,
+      "details_of_course": "Learn the basic algorithms and data structures used in computer science, including sorting, searching, and graph algorithms, with a focus on algorithm analysis and design.",
+      "price": 2800
+    },
+    {
+      "img": "https://i.ibb.co/0JCc1WQ/Rectangle-2-4.png",
+      "course_name": "Introduction to C++ for DSA",
+      "credit_value": 3,
+      "details_of_course": "Explore C++ programming in the context of data structures and algorithms. Learn about classes, objects, templates, and their applications in solving data structure problems.",
+      "price": 2700
+    },
+    {
+      "img": "https://i.ibb.co/Zg33SGS/Rectangle-3.png",
+      "course_name": "Basic Data Structures",
+      "credit_value": 2,
+      "details_of_course": "This course introduces fundamental data structures such as arrays, linked lists, stacks, and queues, along with their implementations and usage.",
+      "price": 1900
+    },
+    {
+      "img": "https://i.ibb.co/mFXKxHs/Rectangle-2.png",
+      "course_name": "Introduction to OOP Python",
+      "credit_value": 3,
+      "details_of_course": "Learn the principles of Object-Oriented Programming (OOP) using Python. Topics include classes, inheritance, polymorphism, and object-oriented design.",
+      "price": 1200
+    },
+    {
+      "img": "https://i.ibb.co/G0j9PB8/Rectangle-2-5.png",
+      "course_name": "Software Engineering",
+      "credit_value": 4,
+      "details_of_course": "Gain a deep understanding of software engineering principles, methodologies, and best practices, including requirements engineering, design, and testing.",
+      "price": 1000
+    },
+    {
+      "img": "https://i.ibb.co/FnzQHfV/Rectangle-3-1.png",
+      "course_name": "AWS, Cloud Computing",
+      "credit_value": 3,
+      "details_of_course": "Explore Amazon Web Services (AWS) and cloud computing concepts, including cloud architecture, virtualization, and cloud deployment models.",
+      "price": 1600
+    },
+    {
+      "img": "https://i.ibb.co/zRD9rLg/Rectangle-2-1.png",
+      "course_name": "Database (MySQL)",
+      "credit_value": 3,
+      "details_of_course": "Learn the basics of database management with MySQL, including database design, querying, and data manipulation using SQL.",
+      "price": 1400
+    },
+    {
+      "img": "https://i.ibb.co/3yFrSP3/Rectangle-2-6.png",
+      "course_name": "Problem-Solving Part",
+      "credit_value": 2,
+      "details_of_course": "Enhance your problem-solving skills and critical thinking abilities through algorithmic challenges and real-world problem-solving scenarios.",
+      "price": 2000
+    }
+  ]
+  
